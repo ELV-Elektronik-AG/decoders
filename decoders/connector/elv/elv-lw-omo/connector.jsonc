@@ -1,8 +1,8 @@
 {
     "$schema": "../../../../schema/connector.json",
-    "name": "elv-bm-trx1",
+    "name": "elv-lw-omo",
     "images": {
-        "logo": "./assets/dnt-bm-trx1.png"
+        "logo": "./assets/elv-lw.omo.png"
     },
     "versions": {
         "v1.0.0": {

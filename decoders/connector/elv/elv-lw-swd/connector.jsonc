@@ -1,6 +1,6 @@
 {
     "$schema": "../../../../schema/connector.json",
-    "name": "elv-bm-trx1",
+    "name": "elv-lw-swd",
     "images": {
         "logo": "./assets/elv-lw-swd.png"
     },
