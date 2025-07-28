@@ -1,0 +1,1 @@
+The ELV LoRaWAN Interface 1 (elv-lw-int1) acts as a bridge to connect UART and I2C sensors to LoRaWAN® Network.

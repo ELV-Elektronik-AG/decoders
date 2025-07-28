@@ -1,0 +1,1 @@
+LoRaWAN® water sensor to detect moisture and water. The device features an integrated alarm siren and can differ betwenn moisture and warter level (1.5 mm) and can be used to detect leakages early and prevent damage.

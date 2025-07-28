@@ -1,0 +1,1 @@
+The ELV LoRaWAN Base is the entry to the ELV modular system. It simpifies the implementation of prototypes and expereiments within LoRaWAN. It can be combined with various application and power modules to measure different parameters. We provide a firmware file for each application module, in addition it is also possible to install your own code via the programming adapter.

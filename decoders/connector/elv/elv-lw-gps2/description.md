@@ -1,0 +1,1 @@
+The ELV LoRaWAN® GPS Tracker 2 is a low power battery powerd device that can track the position in tree modes: cyclic, motion-detection or contact interface. Common use cases are any kind of outdoor tracking like cycling or hiking or object tracking in agriculture

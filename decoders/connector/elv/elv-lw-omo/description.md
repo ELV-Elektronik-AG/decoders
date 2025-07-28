@@ -1,0 +1,1 @@
+The ELV-LW-OMO is a device to track acceleration, vibration or realtive position changes of an outdoor asset. Fields of application are e.g. the monitoring of garbage cans or the detection of activity at a bird house.

@@ -1,0 +1,1 @@
+Compact LoRaWAN® battery powered radio remote control with acceleration and tilt detection. Common usecases for the device could be the monitoring of garage doors, windows or mailboxes. 

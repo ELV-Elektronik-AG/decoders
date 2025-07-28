@@ -1,0 +1,1 @@
+The ELV LoRaWAN® Module Board Open Collector 8fold (ELV-LW-OC8) is a powerful LoRaWAN® Class C actor with 8 open collector output channels. These outputs can either be controlled by the corresponding input channels or via downlink to enable various controlling options.

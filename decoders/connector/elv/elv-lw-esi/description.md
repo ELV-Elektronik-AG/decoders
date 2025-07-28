@@ -1,0 +1,1 @@
+The ELV LoRaWAN® energy meter sensor interface (elv-lw-esi) kit is an interface module that, in conjunction with a radio module (included in the kit), records the energy consumption directly on the electricity or gas meter and sends the determined data via LoRaWAN®. The ELV-LW-ESI kit is continuously supplied via a USB-C socket and therefore does not require a battery change.
